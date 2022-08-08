@@ -97,7 +97,7 @@ span{
 
     .content-inner{
         width: 75%;
-        margin: auto;
+        margin: 25px auto;
         text-align: left;
     }
     .content-inner h2{
@@ -129,7 +129,7 @@ span{
         max-width: 58%;
     }
     .content-inner{
-        width: 70%;
+        width: 80%;
     }
     .img-container,
     .content{
