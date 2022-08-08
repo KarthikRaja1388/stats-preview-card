@@ -129,7 +129,7 @@ span{
         max-width: 58%;
     }
     .content-inner{
-        max-width: 70%;
+        width: 70%;
     }
     .img-container,
     .content{
